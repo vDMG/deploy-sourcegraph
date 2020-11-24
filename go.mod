@@ -9,4 +9,4 @@ require (
 	github.com/slimsag/update-docker-tags v0.7.0
 )
 
-replace github.com/Azure/go-autorest => github.com/Azure/go-autorest v12.4.3+incompatible
+replace github.com/Azure/go-autorest/v14 => github.com/Azure/go-autorest v14.2.0+incompatible
